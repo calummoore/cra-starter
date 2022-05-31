@@ -4,8 +4,8 @@ Quick template that includes preferred setup:
 
  * ✅ Create React App v4
  * ✅ Chakra UI
- * ✅ Webapack v4
- * ✅ Yarn berry
+ * ✅ Webpack v4
+ * ✅ Yarn v3 (berry)
  * ✅ Typescript
  * ✅ Eslint (with opinionated setup)
 
